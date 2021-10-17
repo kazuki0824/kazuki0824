@@ -6,17 +6,15 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kjpfgj79jwdvhqbf45scys30h&count=3)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki0824&layout=compact&theme=github&langs_count=8&hide=gnuplot)
 
-### Currently focuses on
-📝 Lang: Rust, C#(includes Unity), C, C++, Python, Julia...  
+### My favorites
+📝 Lang: Rust, C#(includes Unity), C, C++, Python, bash, Julia...  
 ⌨ Editors: QtCreator, IntelliJ CLion, VSCode, nano  
 🟩 Hardwares: STM32  
 🔧 Tools: CMake, Docker, Ansible, Swagger...
 
-
 ### Organizations
 - 大阪大学 基礎工学研究科 システム創成専攻 システム科学領域 原田研究室
 (https://www.roboticmanipulation.org/)
-
 
 
 ## Activity status
