@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=kazuki0824&color=brightgreen)
 # `$ whoami`
 [![GitHub User's stars](https://img.shields.io/github/stars/kazuki0824?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=GitHub%20%E2%98%85%20Received&logo=github&style=flat-square)](https://github.com/kazuki0824)
 [![Spotify](https://img.shields.io/badge/Spotify-listening-blue?logo=spotify&style=flat-square)](https://open.spotify.com/user/kjpfgj79jwdvhqbf45scys30h)
