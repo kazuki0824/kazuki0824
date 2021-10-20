@@ -4,8 +4,9 @@
 [![Spotify](https://img.shields.io/badge/Spotify-listening-blue?logo=spotify&style=flat-square)](https://open.spotify.com/user/kjpfgj79jwdvhqbf45scys30h)
 ![Twitter Follow](https://img.shields.io/twitter/follow/maleicacid_towa?style=flat-square)
 
-![Spotify Recently Listened](https://spotify-recently-played-readme.vercel.app/api?user=kjpfgj79jwdvhqbf45scys30h&count=3&unique=on)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki0824&layout=compact&theme=github&langs_count=8&hide=gnuplot)
+![](https://raw.githubusercontent.com/kazuki0824/kazuki0824/master/profile-summary-card-output/vue/0-profile-details.svg)
+![Rank](https://github-readme-stats.vercel.app/api?username=kazuki0824&theme=vue&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki0824&theme=vue&layout=compact&langs_count=8)  
 
 ### ☆*:.｡. ｡ My favorites ｡ .｡.:*☆
 📝 Lang: Rust, C#(includes Unity), C, C++, Python, bash, Julia...  
@@ -17,8 +18,7 @@
 - 大阪大学 基礎工学研究科 システム創成専攻 システム科学領域 原田研究室
 (https://www.roboticmanipulation.org/)
 
-
 ## Activity status
-![](https://raw.githubusercontent.com/kazuki0824/kazuki0824/master/profile-summary-card-output/github/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/kazuki0824/kazuki0824/master/profile-summary-card-output/github/3-stats.svg)
 ![](https://raw.githubusercontent.com/kazuki0824/kazuki0824/master/profile-summary-card-output/github/4-productive-time.svg)
+![Spotify Recently Listened](https://spotify-recently-played-readme.vercel.app/api?user=kjpfgj79jwdvhqbf45scys30h&count=3&unique=on)
