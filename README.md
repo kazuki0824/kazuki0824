@@ -9,15 +9,18 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki0824&theme=vue&layout=compact&langs_count=10&hide=Mathematica,C)  
 
 ### ☆*:.｡. ｡ My favorites ｡ .｡.:*☆
-📝 Lang: Rust, C#(includes Unity), C, C++, Python, bash, Julia...  
-⌨ Editors: QtCreator, IntelliJ CLion, VSCode, nano  
-🟩 Hardwares: STM32  
-🔧 Tools: CMake, Docker, Ansible, Swagger...
+📝 Lang: Rust, C#(includes Unity), C, C++, Python, bash...  
+🟩 Hardwares: STM32, NVIDIA Jetson Nano  
+🔧 Tools: CMake, Docker, Ansible, bitbake...
 
 ### ☆.｡:.+*: Organizations *｡ﾟ:*+.:.☆
 - [OUXT Polaris](https://www.ouxt.jp/)
+
+### ☆.｡:.+*: Ex-organizations *｡ﾟ:*+.:.☆
 - 大阪大学 基礎工学研究科 システム創成専攻 システム科学領域 原田研究室
 (https://www.roboticmanipulation.org/)
+- 大阪大学Robohan
+(https://www.robohan.net/)
 
 ## Activity status
 ![](https://raw.githubusercontent.com/kazuki0824/kazuki0824/master/profile-summary-card-output/github/3-stats.svg)
