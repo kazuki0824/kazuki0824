@@ -5,12 +5,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/maleicacid_towa?style=flat-square)
 
 ![](https://raw.githubusercontent.com/kazuki0824/kazuki0824/master/profile-summary-card-output/vue/0-profile-details.svg)
-![Rank](https://github-readme-stats.vercel.app/api?username=kazuki0824&theme=vue&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki0824&theme=vue&layout=compact&langs_count=10&hide=Mathematica,C)  
+![Rank](https://github-readme-stats.vercel.app/api?username=kazuki0824&theme=vue&count_private=true&include_all_commits=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki0824&theme=vue&layout=compact&langs_count=10&hide=Mathematica)  
 
 ### ☆*:.｡. ｡ My favorites ｡ .｡.:*☆
 📝 Lang: Rust, C#(includes Unity), C, C++, Python, bash...  
-🟩 Hardwares: STM32, NVIDIA Jetson Nano  
 🔧 Tools: CMake, Docker, Ansible, bitbake...
 
 ### ☆.｡:.+*: Organizations *｡ﾟ:*+.:.☆
